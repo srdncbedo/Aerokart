@@ -1,2 +1,2 @@
 # Aerokart
-A working go kart from scratch.
+A working go kart made by a high school student from scratch.
